@@ -18,7 +18,6 @@ function uniqYears(items) {
 }
 
 function labelMonth(item) {
-  // your JSON has monthName; your examples also use "July 8" style labels
   return item.label || `${item.monthName} ${item.day}`;
 }
 
@@ -29,7 +28,6 @@ function renderTimeline(items) {
   grouped.forEach((item) => {
     const el = document.createElement("div");
     el.className = "timeline-item";
-
     el.innerHTML = `
       <div class="timeline-card">
         <div class="year-badge">${escapeHtml(item.dateISO)}</div>
@@ -37,14 +35,8 @@ function renderTimeline(items) {
         <p>${escapeHtml(item.filename || "")}</p>
       </div>
     `;
-
     timelineEl.appendChild(el);
   });
-}
-
-function setActiveYear(year) {
-  const links = yearGrid.querySelectorAll("a");
-  links.forEach(a => a.classList.toggle("active", a.dataset.year === String(year)));
 }
 
 function renderYearGrid(items) {
@@ -52,31 +44,34 @@ function renderYearGrid(items) {
 
   yearGrid.innerHTML = "";
 
-  // Year "all"
+  // "All"
   const all = document.createElement("a");
-  all.href = "#";
+  all.href = "timeline.html";
   all.dataset.year = "all";
   all.textContent = "All";
-  all.className = "active";
-  all.addEventListener("click", (e) => {
-    e.preventDefault();
-    setActiveYear("all");
-    renderTimeline(data);
-  });
+  all.classList.add("active");
   yearGrid.appendChild(all);
 
+  // Individual years (no more /1971.html)
   years.forEach((y) => {
     const a = document.createElement("a");
-    a.href = "#";
+    a.href = `timeline.html?year=${encodeURIComponent(String(y))}`;
     a.dataset.year = String(y);
     a.textContent = String(y);
-    a.addEventListener("click", (e) => {
-      e.preventDefault();
-      setActiveYear(y);
-      renderTimeline(data.filter(x => String(x.year) === String(y)));
-    });
     yearGrid.appendChild(a);
   });
+}
+
+function applyYearFromURL() {
+  const url = new URL(window.location.href);
+  const year = url.searchParams.get("year");
+  const yearStr = year ? String(year) : "all";
+  const filtered = (yearStr === "all") ? data : data.filter(x => String(x.year) === yearStr);
+  renderTimeline(filtered);
+
+  // active styling
+  const links = yearGrid.querySelectorAll("a");
+  links.forEach((a) => a.classList.toggle("active", a.dataset.year === yearStr));
 }
 
 (async function init() {
@@ -84,5 +79,7 @@ function renderYearGrid(items) {
   data = await res.json();
 
   renderYearGrid(data);
-  renderTimeline(data);
+  applyYearFromURL();
+
+  window.addEventListener("popstate", applyYearFromURL);
 })();

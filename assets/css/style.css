@@ -252,7 +252,7 @@ header{
     text-align:center;
 
     /* prevent header overlap/cutting off the text */
-    padding-top: 90px; /* change if your navbar height differs */
+    padding-top: 290px; /* change if your navbar height differs */
     box-sizing: border-box;
 
     background:
@@ -1631,6 +1631,18 @@ p{
 
     background:var(--gold2);
 
+}
+
+/* make video fit nicely on all screen sizes */
+.video-wrap{
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.video-wrap video{
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 /* ==========================================================

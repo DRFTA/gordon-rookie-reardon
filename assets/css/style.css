@@ -168,7 +168,7 @@ header {
     background-position: center 30%; /* Shift focus down from top */
     background-repeat: no-repeat;
     text-align: center;
-    padding-top: 100px; /* Add padding to push content below header */
+    padding-top: 330px; /* Add padding to push content below header */
     padding-bottom: 60px;
 }
 

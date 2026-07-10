@@ -30,7 +30,7 @@ function renderTimeline(items) {
     el.className = "timeline-item";
 
     // Expect item.filename to be like: "Rookie1974June3.png"
-    const imgSrc = `./assets/images/years/${item.year}/${item.filename || ""}`;
+    const imgSrc = item.image || (item.filename ? `/assets/images/years/${item.year}/${item.filename}` : "");
 
     el.innerHTML = `
       <div class="timeline-card">

@@ -245,81 +245,56 @@ fix this so his head is not cut off from the top headder:
 ========================================================== */
 
 .hero{
-
     height:100vh;
-
     position:relative;
-
     display:flex;
-
     align-items:center;
-
     justify-content:center;
+    text-align:center;
+
+    /* prevent header overlap/cutting off the text */
+    padding-top: 90px; /* change if your navbar height differs */
+    box-sizing: border-box;
 
     background:
-
         linear-gradient(
             rgba(0,0,0,.60),
             rgba(0,0,0,.70)
         ),
-
         url("../images/hero.jpg");
 
     background-size:cover;
-
     background-position:center;
-
-    text-align:center;
-
 }
 
 .overlay{
-
     max-width:900px;
-
     padding:150px;
-
     animation:fadeUp 1.2s ease;
-
 }
 
 .hero h1{
-
     font-family:"Oswald",sans-serif;
-
     font-size:84px;
-
     line-height:1;
-
     color:white;
-
     text-shadow:0 6px 18px rgba(0,0,0,.6);
-
 }
 
 .hero h2{
-
     margin-top:20px;
-
     font-size:34px;
-
     color:var(--gold);
-
     font-weight:600;
-
 }
 
 .hero p{
-
     margin-top:30px;
-
     color:#ddd;
-
     font-size:22px;
-
     line-height:1.8;
-
 }
+
 
 /* ==========================================================
    BUTTONS

@@ -244,9 +244,9 @@ header{
 ========================================================== */
 
 .hero{
-    height:100vh;
-    position:relative;
-    display:flex;
+    height:80vh;
+    position:center;
+    display:center;
     align-items:center;
     justify-content:center;
     text-align:center;

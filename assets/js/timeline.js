@@ -33,7 +33,8 @@ function renderTimeline(items) {
     const el = document.createElement("div");
     el.className = "timeline-item";
 
-    const imgSrc = stripLeadingSlash(item.image || (item.filename ? `assets/images/years/${item.year}/${item.filename}` : ""));
+    // Use the absolute-in-JSON path, but make it relative for GitHub Pages subpaths
+    const imgSrc = stripLeadingSlash(item.image || "");
 
     el.innerHTML = `
       <div class="timeline-card">

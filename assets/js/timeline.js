@@ -21,6 +21,10 @@ function labelMonth(item) {
   return item.label || `${item.monthName} ${item.day}`;
 }
 
+function stripLeadingSlash(path) {
+  return String(path || "").replace(/^\//, "");
+}
+
 function renderTimeline(items) {
   timelineEl.innerHTML = "";
 
@@ -29,8 +33,7 @@ function renderTimeline(items) {
     const el = document.createElement("div");
     el.className = "timeline-item";
 
-    // Expect item.filename to be like: "Rookie1974June3.png"
-    const imgSrc = item.image || (item.filename ? `/assets/images/years/${item.year}/${item.filename}` : "");
+    const imgSrc = stripLeadingSlash(item.image || (item.filename ? `assets/images/years/${item.year}/${item.filename}` : ""));
 
     el.innerHTML = `
       <div class="timeline-card">
@@ -56,7 +59,6 @@ function renderYearGrid(items) {
 
   yearGrid.innerHTML = "";
 
-  // "All"
   const all = document.createElement("a");
   all.href = "timeline.html";
   all.dataset.year = "all";
@@ -64,7 +66,6 @@ function renderYearGrid(items) {
   all.classList.add("active");
   yearGrid.appendChild(all);
 
-  // Individual years (no more /1971.html)
   years.forEach((y) => {
     const a = document.createElement("a");
     a.href = `timeline.html?year=${encodeURIComponent(String(y))}`;
@@ -78,10 +79,13 @@ function applyYearFromURL() {
   const url = new URL(window.location.href);
   const year = url.searchParams.get("year");
   const yearStr = year ? String(year) : "all";
-  const filtered = (yearStr === "all") ? data : data.filter(x => String(x.year) === yearStr);
+
+  const filtered = (yearStr === "all")
+    ? data
+    : data.filter(x => String(x.year) === yearStr);
+
   renderTimeline(filtered);
 
-  // active styling
   const links = yearGrid.querySelectorAll("a");
   links.forEach((a) => a.classList.toggle("active", a.dataset.year === yearStr));
 }

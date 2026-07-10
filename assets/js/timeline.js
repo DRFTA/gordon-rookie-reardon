@@ -28,13 +28,25 @@ function renderTimeline(items) {
   grouped.forEach((item) => {
     const el = document.createElement("div");
     el.className = "timeline-item";
+
+    // Expect item.filename to be like: "Rookie1974June3.png"
+    const imgSrc = `./assets/images/years/${item.year}/${item.filename || ""}`;
+
     el.innerHTML = `
       <div class="timeline-card">
         <div class="year-badge">${escapeHtml(item.dateISO)}</div>
         <h3>${escapeHtml(labelMonth(item))}</h3>
         <p>${escapeHtml(item.filename || "")}</p>
+        <img
+          src="${imgSrc}"
+          alt="${escapeHtml(item.filename || `Newspaper image ${item.year}`)}"
+          loading="lazy"
+          style="width: 100%; height: auto; border-radius: 8px;"
+          onerror="this.style.display='none'"
+        />
       </div>
     `;
+
     timelineEl.appendChild(el);
   });
 }

@@ -31,6 +31,9 @@ The First Rookie of New Zealand Basketball
 This project is dedicated to preserving the history, achievements, and enduring legacy of Gordon "Rookie" Reardon. One of the pioneers of New Zealand basketball, a New Zealand Basketball Hall of Fame inductee, and a key member of the legendary 1978 Tall Blacks.
 
 <div align="left">
+
+# 📜 Biography of Gordon "Rookie" Reardon
+
 ## Table of Contents
 
 - [The Emergence of Rookie Reardon](#the-emergence-of-rookie-reardon)
@@ -41,8 +44,6 @@ This project is dedicated to preserving the history, achievements, and enduring 
 - [The Landmark 1978 Series](#the-landmark-1978-series-destabilisations-bravery-and-victory)
 - [The Veteran Era, National League, and Leadership](#the-veteran-era-national-league-and-political-leadership)
 - [Legacy, Basketball Hall of Fame, and Cultural Preservation](#legacy-basketball-hall-of-fame-and-cultural-preservation)
-
-# 📜 Biography of Gordon "Rookie" Reardon
 
 #### The Emergence of Rookie Reardon
 

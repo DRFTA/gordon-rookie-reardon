@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏀 Gordon "Rookie" Reardon
+# 🏀 Gordon "Rookie" Reardon 🏀
 
 ## The First True "Rookie" in New Zealand Basketball History
 

@@ -2,7 +2,7 @@
 <h1>🏀 Gordon "Rookie" Reardon 🏀
 
 
-1️⃣ 1st ROOKIE of New Zealand Basketball</h1>
+The First Rookie of New Zealand Basketball</h1>
 <h2>
   
 🏀 Tall Black (1971–1980s)

@@ -2,8 +2,12 @@
 # The First Real Rookie in New Zealand Basketball History
 
 > **Preserving the career and legacy of New Zealand Basketball’s original “Rookie” player and pioneer through newspaper archives, photographs, historical documents, and rare video footage.**
->
-> [https://DRFTA.github.io/gordon-rookie-reardon/]
+
+---
+
+## WEBSITE
+
+https://DRFTA.github.io/gordon-rookie-reardon/
 
 ---
 

@@ -11,7 +11,7 @@ This project is dedicated to preserving the basketball career of, and the legacy
 
 Reardon was inducted into the New Zealand Basketball Hall of Fame for his part in the 1978 New Zealand Men’s National Team, who competed against Australia in the FIBA World Championship Qualifying series and won.
 
-After that win, it took New Zealand 24 long years to achieve what the 1978 “Dream Team” did—earning a win against Australia.
+After that win, it took New Zealand 24 long years to achieve what the 1978 “Dream Team” did earning a win against Australia.
 
 The archive brings together decades of historical material, including newspaper articles, photographs, match reports, team information, and video recordings, to create a permanent digital record of Rookie’s contribution to New Zealand basketball.
 

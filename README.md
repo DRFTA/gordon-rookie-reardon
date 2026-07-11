@@ -1,11 +1,9 @@
 <div align="center">
 <h1>🏀 Gordon "Rookie" Reardon 🏀</h1>
 <h2>The First True "Rookie" in New Zealand Basketball History</h2>
-> **Gordon "Rookie" Reardon**
->
-> 🏀 Tall Black (1971–1980s)  
-> 🏆 New Zealand Basketball Hall of Fame  
-> 🇳🇿 Member of the legendary 1978 Tall Blacks team that recorded New Zealand's first victory over Australia.
+<h2>🏀 Tall Black (1971–1980s)</h2>
+<h2>🏆 New Zealand Basketball Hall of Fame</h2>  
+<h2>🇳🇿 Member of the legendary 1978 Tall Blacks team that recorded New Zealand's first victory over Australia.</h2>
 <br>
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
 <br><br>

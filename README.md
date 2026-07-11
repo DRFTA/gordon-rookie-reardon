@@ -1,8 +1,14 @@
 <div align="center">
 
-# 🏀 Gordon "Rookie" Reardon 🏀                                                                                                                                                                                The First True "Rookie" in New Zealand Basketball History
+# 🏀 Gordon "Rookie" Reardon 🏀
 
-**Preserving the career and legacy of one of New Zealand basketball's pioneers through newspaper archives, photographs, historical documents, and rare video footage.**
+### The First True "Rookie" in New Zealand Basketball History
+
+*Preserving the career and legacy of one of New Zealand basketball's pioneers through newspaper archives, photographs, historical documents, and rare video footage.*
+
+</div>
+
+---
 
 [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)

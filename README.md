@@ -6,7 +6,6 @@
 ---
 
 ## WEBSITE
-
 https://DRFTA.github.io/gordon-rookie-reardon/
 
 ---

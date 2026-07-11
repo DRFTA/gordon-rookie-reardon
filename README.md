@@ -92,44 +92,6 @@ Highlights include:
 
 ---
 
-# Repository Structure
-
-```
-rookie-reardon-history/
-
-├── index.html
-├── biography.html
-├── timeline.html
-├── gallery.html
-├── search.html
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│   └── videos/
-│
-├── data/
-│   └── articles.json
-│
-└── README.md
-```
-
----
-
-# Technologies
-
-This project is built entirely using static web technologies.
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
-No database or server is required.
-
----
-
 # Goals
 
 The objective of this archive is to:
@@ -189,16 +151,6 @@ If you are a copyright holder and have concerns regarding any material contained
 This repository is released under the MIT License unless otherwise stated.
 
 Historical newspaper material remains the property of its original copyright holders.
-
----
-
-# Visit the Archive
-
-The website archive can be viewed at:
-
-```
-[https://DRFTA.github.io/gordon-rookie-reardon/]
-```
 
 ---
 

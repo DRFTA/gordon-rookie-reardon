@@ -6,7 +6,7 @@
   <br><br>
 
   <div align="center">
-    <h3>🇳🇿Tall Black (1971–1980s) 🇳🇿</h3>
+    <h3>🇳🇿 Tall Black (1971–1980s) 🇳🇿</h3>
     <h3>🏆 New Zealand Basketball Hall of Famer 🏆</h3>
     <h3>⛹️ Legendary 1978 Tall Blacks Team Member ⛹️</h3>
     <h3>🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>

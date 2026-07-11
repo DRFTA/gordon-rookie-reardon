@@ -4,10 +4,10 @@
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
 <br><br>
 <div align="left">
-<br><br>🇳🇿 Tall Black (1971–1980s)
-<br><br>🏆 New Zealand Basketball Hall of Famer 
-<br><br>⛹️ Legendary 1978 Tall Blacks Team Member 
-<br><br>🏀 The First Real Rookie of New Zealand Basketball 
+<br><br>Tall Black (1971–1980s) 🇳🇿
+<br><br>New Zealand Basketball Hall of Famer 🏆 
+<br><br>Legendary 1978 Tall Blacks Team Member ⛹️  
+<br><br>The First Real Rookie of New Zealand Basketball 🏀  
 <br><br>
 </h1>
 </h2>

@@ -57,46 +57,42 @@ The story of Gordon "Rookie" Reardon is more than a biography; it is the heartbe
 
 His career stands as a testament to the power of unwavering resilience, proving that with enough heart, passion, and tactical brilliance, one individual can change the trajectory of an entire nation's sporting landscape.
 
-
+<br><br>
 ## A Trailblazer in Every Sense
 
 Long before basketball became a household name in New Zealand, a young talent emerged who would bridge the gap between niche pastime and modern sporting powerhouse. Earning the iconic nickname "Rookie" after becoming the youngest player ever selected for the Tall Blacks, Gordon Reardon became the symbol of a new era.
 
 He was a player of rare duality: physically commanding in the paint, yet blessed with the agility and court vision of a guard. In an era where players were often defined by rigid roles, Reardon's versatility was his greatest asset. He didn't just compete; he dictated the flow of the game, bringing a level of strategic intelligence that challenged conventions and inspired a generation.
 
-
+<br><br>
 ## Foundations of Excellence
 
 Born in Auckland, Reardon's character was forged in the fires of discipline and hard work. Emerging from the vibrant, working-class fabric of the city, he developed a quiet confidence and a fierce competitive spirit that would become his hallmark.
 
 At Avondale College, his natural aptitude for basketball was clear, but it was his calm demeanor under pressure, his ability to see the game three steps ahead, that truly set him apart. He wasn't just a gifted athlete; he was a student of the game who transformed potential into greatness through grit and sacrifice.
 
----
-
+<br><br>
 ## The 1971 Experiment and the International Stage
 
 1971 marked a pivotal inflection point. As national selectors moved away from traditional models, they placed their faith in the bold, tactical, and athletic potential of players like Reardon. His selection for the Oceania Championship was a landmark moment, signaling a shift in New Zealand's governing philosophy.
 
 While the scoreboard at the time didn't always reflect their progress against regional giants, the experience was invaluable. It wasn't about the immediate result; it was about the seeds of belief being sown. Reardon brought an intensity that proved the Tall Blacks could hang with the best, turning heads and setting the stage for the breakthroughs to come.
 
----
-
+<br><br>
 ## The Adelaide Chapter: Pushing Boundaries
 
 In 1974, Reardon took a courageous leap that would forever change his life and his sport. Accepting a professional contract in Adelaide, Australia, he stepped out of the comfort of his amateur roots into a demanding, high-level professional environment.
 
 This period was transformative. Far from his support network, Reardon sharpened his craft, refining his technique and fitness in a league that demanded absolute dedication. He returned to New Zealand not just as a player, but as a seasoned leader, bringing back a wealth of professional knowledge that would prove instrumental in the success of the national team.
 
----
-
+<br><br>
 ## 1978: The Moment of Triumph
 
 The 1978 series remains the golden chapter of New Zealand basketball, a true underdog story that would inspire decades to come. Facing the powerhouse Australian team, Reardon emerged as the catalyst for a miracle. In the heart-pounding victories in Christchurch and Auckland, he was the heartbeat of the team.
 
 Whether it was a tenacious defensive stop or a precise mid-range jumper under the highest pressure, Reardon's play was nothing short of legendary. When the final whistle blew, it wasn't just a win; it was a profound, symbolic declaration that New Zealand basketball had arrived on the world stage.
 
----
-
+<br><br>
 ## A Lasting Legacy
 
 Though his playing days transitioned into a distinguished period of mentorship, administration, and leadership during the birth of the National Basketball League (NBL), Reardon's influence has never waned. His 2020 induction into the Basketball Hall of Fame was merely a formal recognition of what the basketball community had known for years: Gordon "Rookie" Reardon is a giant of the game.

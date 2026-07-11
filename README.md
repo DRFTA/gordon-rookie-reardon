@@ -49,8 +49,7 @@ This project is dedicated to preserving the history, achievements, and enduring 
 
 [A Lasting Legacy](#a-lasting-legacy)
 
----
-
+<br><br>
 ## Introduction
 
 The story of Gordon "Rookie" Reardon is more than a biography; it is the heartbeat of New Zealand basketball's evolution. From the raw, amateur courts of the late 1960s to the historic, ceiling-shattering triumphs of the late 1970s, Reardon did not just play the game, he redefined it.

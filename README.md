@@ -5,23 +5,21 @@
   <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
   <br><br>
 
-  <div align="center">
-    <h3>🇳🇿 Tall Black (1971–1980s) 🇳🇿</h3>
-    <h3>🏆 New Zealand Basketball Hall of Famer 🏆</h3>
-    <h3>⛹️ Legendary 1978 Tall Blacks Team Member ⛹️</h3>
-    <h3>🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>
-  </div>
+  <h3>🇳🇿 Tall Black (1971–1980s) 🇳🇿</h3>
+  <h3>🏆 New Zealand Basketball Hall of Famer 🏆</h3>
+  <h3>⛹️ Legendary 1978 Tall Blacks Team Member ⛹️</h3>
+  <h3>🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>
+
+  <br><br>
+
+  [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
+  ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
+  ![Made with Love](https://img.shields.io/badge/Made%20for-NZ%20Basketball-black?style=for-the-badge)
+
+  <br>
+
+  ### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
 </div>
-
-<br>
-
-</h2>
-<div align="center">
-  
-[![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
-![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20for-NZ%20Basketball-black?style=for-the-badge)
-### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
 
 <br>
 

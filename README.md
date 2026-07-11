@@ -34,7 +34,7 @@ Rather than allowing this important chapter of sporting history to remain scatte
 
 # 📜 Full Biography:
 
-### *A Comprehensive Biography of Gordon "Rookie" Reardon*
+### *Biography of Gordon "Rookie" Reardon*
 
 ---
 

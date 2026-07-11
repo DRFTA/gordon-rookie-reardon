@@ -10,7 +10,7 @@
 
 ### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
 
-</div>
+<div align="center">
 
 ---
 
@@ -20,7 +20,7 @@ This project is dedicated to preserving the basketball career and legacy of **Go
 
 ---
 
-</div>
+<div align="center">
 
 ---
 
@@ -188,4 +188,4 @@ Historical newspapers, photographs, and other archival material remain the prope
 
 ### 🏀 Preserving the Past • Inspiring the Future 🏀
 
-</div>
+<div align="center">

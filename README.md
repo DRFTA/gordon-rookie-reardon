@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
 <br><br>
 <div align="left">
-🇳🇿 Tall Black (1971–1980s)
+ 🇳🇿 Tall Black (1971–1980s)
 <br><br>
 🏆 New Zealand Basketball Hall of Famer 
 <br><br>

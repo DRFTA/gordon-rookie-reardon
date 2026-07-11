@@ -6,8 +6,8 @@
   <br><br>
 
   <h3>⛹🏻‍♀️ New Zealand Tall Black (1971–1980s) ⛹🏻‍♀️</h3>
-  <h3>🏆 New Zealand Basketball 1978 Team Hall of Famer 🏆</h3>
   <h3>🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>
+  <h3>🏆 New Zealand Basketball 1978 Team Hall of Famer 🏆</h3>
   <br>
   
 <hr>

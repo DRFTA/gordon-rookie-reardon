@@ -28,41 +28,11 @@ Rather than allowing this important chapter of sporting history to remain scatte
 
 ---
 
-<div align="center">
-
-<h1>🏀 Gordon "Rookie" Reardon 🏀</h1> <h2>The First True "Rookie" in New Zealand Basketball History</h2>
-
-*Preserving the career and legacy of one of New Zealand basketball's pioneers through newspaper archives, photographs, historical documents, and rare video footage.*
-
-[![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
-![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20for-NZ%20Basketball-black?style=for-the-badge)
-
-### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
-
 </div>
 
 ---
 
-# 🏀 Welcome
-
-This project is dedicated to preserving the basketball career and legacy of **Gordon "Rookie" Reardon**, one of the pioneers of New Zealand basketball and a key member of the legendary **1978 Tall Blacks**.
-
-The nickname **"Rookie"** became synonymous with Gordon Reardon long before the term became common in modern sport, making him one of the original "Rookies" in New Zealand basketball history.
-
-In **1978**, Reardon helped the **New Zealand Men's National Team** defeat Australia in the **FIBA World Championship Qualifying Series** a landmark achievement that earned the team induction into the **New Zealand Basketball Hall of Fame**.
-
-Following that historic victory, it would take **24 years** before another New Zealand men's team defeated Australia.
-
-Rather than allowing this important chapter of sporting history to remain scattered across ageing newspapers and private collections, this project brings together decades of material into a searchable digital archive for players, historians, researchers, family, and future generations.
-
----
-
-</div>
-
----
-
-# 📜 Full Biography: The Pioneer of the Keyhole
+# 📜 Full Biography:
 
 ### *A Comprehensive Biography of Gordon "Rookie" Reardon*
 

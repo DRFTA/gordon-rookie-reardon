@@ -24,7 +24,7 @@ The First Rookie of New Zealand Basketball
 
 <br>
 
-<div align="center">
+<div align="left">
   
 # 🏀 Welcome
 

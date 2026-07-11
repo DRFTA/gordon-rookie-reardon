@@ -7,7 +7,7 @@
 
 ## Welcome
 
-This project is dedicated to preserving the basketball career of, and the legacy of, Gordon “Rookie” Reardon—the 1st “Rookie” figure in New Zealand basketball, and a key member of the 1978 Tall Blacks.
+This project is dedicated to preserving the basketball career of, and the legacy of, Gordon “Rookie” Reardon the 1st “Rookie” figure in New Zealand basketball, and a key member of the 1978 Tall Blacks.
 
 Reardon was inducted into the New Zealand Basketball Hall of Fame for his part in the 1978 New Zealand Men’s National Team, who competed against Australia in the FIBA World Championship Qualifying series and won.
 

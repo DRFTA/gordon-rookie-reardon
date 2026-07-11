@@ -151,7 +151,7 @@ More importantly, his story has been preserved in the cultural memory of New Zea
 
 </div>
 
-<div align="center">
+<div align="left">
 
 
 # 🤝 Contributing

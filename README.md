@@ -4,11 +4,11 @@
   
 🏀 Tall Black (1971–1980s)
 
+🏆 New Zealand Basketball Hall of Famer
+
 1️⃣ 1st ROOKIE of New Zealand Basketball 
 
 ⛹️‍♀️ Legendary 1978 Tall Blacks Team Member
-
-🏆 New Zealand Basketball Hall of Famer
 
 </h2>
 

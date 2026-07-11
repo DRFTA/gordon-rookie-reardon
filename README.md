@@ -208,9 +208,7 @@ Historical newspapers, photographs, and other archival material remain the prope
 
 <div align="center">
 
-## 🇳🇿
-
-> **"The history of New Zealand basketball deserves to be preserved, remembered, and shared."**
+**"The history of New Zealand basketball deserves to be preserved, remembered, and shared."**
 
 ### 🏀 Preserving the Past • Inspiring the Future 🏀
 

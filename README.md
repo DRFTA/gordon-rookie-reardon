@@ -1,12 +1,14 @@
 <div align="center">
 <h1>🏀 Gordon "Rookie" Reardon 🏀</h1>
-<h2>The 1st ROOKIE of New Zealand Basketball 
+<h2>
+1️⃣ 1st ROOKIE of New Zealand Basketball 
   
 🏀 Tall Black (1971–1980s)
 
-🇳🇿 Legendary 1978 Tall Blacks Team Member
+⛹️‍♀️ Legendary 1978 Tall Blacks Team Member
 
-🏆 New Zealand Basketball Hall of Famer</h2>
+🏆 New Zealand Basketball Hall of Famer
+</h2>
 
 <br>
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />

@@ -57,7 +57,6 @@ The story of Gordon "Rookie" Reardon is more than a biography; it is the heartbe
 
 His career stands as a testament to the power of unwavering resilience, proving that with enough heart, passion, and tactical brilliance, one individual can change the trajectory of an entire nation's sporting landscape.
 
----
 
 ## A Trailblazer in Every Sense
 
@@ -65,7 +64,6 @@ Long before basketball became a household name in New Zealand, a young talent em
 
 He was a player of rare duality: physically commanding in the paint, yet blessed with the agility and court vision of a guard. In an era where players were often defined by rigid roles, Reardon's versatility was his greatest asset. He didn't just compete; he dictated the flow of the game, bringing a level of strategic intelligence that challenged conventions and inspired a generation.
 
----
 
 ## Foundations of Excellence
 

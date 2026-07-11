@@ -3,7 +3,7 @@
 <br><br>
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
 <br><br>
-The First Rookie of New Zealand Basketball
+The First Real Rookie of New Zealand Basketball
 <br><br>
 </h1>
 
@@ -29,7 +29,6 @@ The First Rookie of New Zealand Basketball
 # 🏀 Welcome
 
 This project is dedicated to preserving the history, achievements, and enduring legacy of Gordon "Rookie" Reardon. One of the pioneers of New Zealand basketball, a New Zealand Basketball Hall of Fame inductee, and a key member of the legendary 1978 Tall Blacks.
-<br><br>
 <br><br>
 <div align="left">
 

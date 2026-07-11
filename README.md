@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🏀 Gordon "Rookie" Reardon 🏀</h1>                                           <h2>The First True "Rookie" in New Zealand Basketball History</h2>
+<h1>🏀 Gordon "Rookie" Reardon 🏀</h1> <h2>The First True "Rookie" in New Zealand Basketball History</h2>
 
 *Preserving the career and legacy of one of New Zealand basketball's pioneers through newspaper archives, photographs, historical documents, and rare video footage.*
 
@@ -20,7 +20,7 @@ This project is dedicated to preserving the basketball career and legacy of **Go
 
 The nickname **"Rookie"** became synonymous with Gordon Reardon long before the term became common in modern sport, making him one of the original "Rookies" in New Zealand basketball history.
 
-In **1978**, Reardon helped the **New Zealand Men's National Team** defeat Australia in the **FIBA World Championship Qualifying Series**—a landmark achievement that earned the team induction into the **New Zealand Basketball Hall of Fame**.
+In **1978**, Reardon helped the **New Zealand Men's National Team** defeat Australia in the **FIBA World Championship Qualifying Series** a landmark achievement that earned the team induction into the **New Zealand Basketball Hall of Fame**.
 
 Following that historic victory, it would take **24 years** before another New Zealand men's team defeated Australia.
 

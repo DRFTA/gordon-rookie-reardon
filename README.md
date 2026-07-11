@@ -1,18 +1,18 @@
 <div align="center">
-<h1>🏀 Gordon "Rookie" Reardon 🏀 
-<br><br>
-<img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
-<br><br>
-<div align="left">
-# Tall Black (1971–1980s) 🇳🇿
-<br>
-# New Zealand Basketball Hall of Famer 🏆 
-<br>
-# Legendary 1978 Tall Blacks Team Member ⛹️  
-<br>
-# The First Real Rookie of New Zealand Basketball 🏀  
-<br><br>
-</h1>
+  <h1>
+    🏀 Gordon "Rookie" Reardon 🏀
+    <br><br>
+    <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
+    <br><br>
+
+    <div align="left">
+      <span style="font-size: 24px;">Tall Black (1971–1980s) 🇳🇿</span><br>
+      <span style="font-size: 24px;">New Zealand Basketball Hall of Famer 🏆</span><br>
+      <span style="font-size: 24px;">Legendary 1978 Tall Blacks Team Member ⛹️</span><br>
+      <span style="font-size: 24px;">The First Real Rookie of New Zealand Basketball 🏀</span>
+    </div>
+  </h1>
+</div>
 </h2>
 
 [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)

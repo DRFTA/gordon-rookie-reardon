@@ -1,14 +1,23 @@
 <div align="center">
 
-<h1>🏀 Gordon "Rookie" Reardon 🏀</h1> <h2>The First True "Rookie" in New Zealand Basketball History</h2>
+<h1>🏀 Gordon "Rookie" Reardon 🏀</h1>
+<h2>The First True "Rookie" in New Zealand Basketball History</h2>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="700" />
+
+<br><br>
 
 [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20for-NZ%20Basketball-black?style=for-the-badge)
 
+<br>
+
 ### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
 
-<div align="center">
+</div>
 
 ---
 

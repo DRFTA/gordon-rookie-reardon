@@ -44,7 +44,7 @@ This project is dedicated to preserving the history, achievements, and enduring 
 - [The Veteran Era, National League, and Leadership](#the-veteran-era-national-league-and-political-leadership)
 - [Legacy, Basketball Hall of Fame, and Cultural Preservation](#legacy-basketball-hall-of-fame-and-cultural-preservation)
 
-### The Emergence of Rookie Reardon
+## The Emergence of Rookie Reardon
 
 The emergence of Gordon "Rookie" Reardon in the world of basketball marked a profound transition in the structural and tactical landscape of New Zealand basketball. His professional career, which spanned from the early 1970s through the late 1980s, was defined not merely by the quality of his athletic performance but by his decisive impact on how the game was played, perceived, and organised during a critical period in the nation's sporting evolution.
 
@@ -64,7 +64,7 @@ Perhaps most importantly, Reardon's career reflected the changing nature of the 
 
 The trials and triumphs of his playing days are emblematic of an era where passion for the game was the primary motivating force, and financial reward was secondary. This amateur context is crucial to understanding the unique culture of basketball in New Zealand during this period.
 
-### Family Heritage and Early Development
+## Family Heritage and Early Development
 
 Gordon Reardon was born in Auckland, New Zealand. The Reardon family name, which has Maori/Irish origins, was well established in New Zealand by the time of Gordon's birth. His family's position in the working class sectors of Auckland society provided a foundation of values that emphasised resilience, discipline, and community engagement, principles that would remain a constant theme throughout his life and career.
 
@@ -76,7 +76,7 @@ Records of his later performances indicate a player who had benefited from a sol
 
 His early days in the sport also provided a glimpse into his future career path. For Reardon, basketball was not just a pastime but a passion that he pursued with increasing fervour. As he progressed through the ranks, he began to attract attention not only from local team managers but also from provincial selectors who were beginning to look beyond the traditional strongholds of the sport to discover fresh talent. It is no exaggeration to state that Reardon's recruitment to the national setup was a direct result of his consistent performances for Canterbury, performances that proved he was ready for a higher level of competition.
 
-### The Selection Experiment of 1971 and the Oceania Debut
+## The Selection Experiment of 1971 and the Oceania Debut
 
 By 1971, the selection committee for the New Zealand national basketball team was highly experimental, prioritising a bold new strategy. The failure of New Zealand teams to consistently challenge the Australian national side had become a source of frustration for the governing bodies, who were desperate to break the long standing cycle of defeat. They realised that the only way to compete with the Australians was to try a different composition and style, one that would break away from the conventional "tall player" model. In doing so, the selectors began to reach into the secondary school system for players who demonstrated an extraordinary aptitude for the sport. It was in this environment that Gordon "Rookie" Reardon was selected for the first time.
 
@@ -88,7 +88,7 @@ Reardon's performance in these matches was a source of encouragement. While he d
 
 The 1971 tournament should not be viewed solely as a competition but rather as a pivotal moment in the evolution of New Zealand basketball. The decisions made by the selectors in that year—particularly in seeking out promising secondary school players—represented a fundamental shift in the sport's governing philosophy. By choosing to nurture talents like Reardon, they were committing to a long term strategy that would eventually bear fruit in the shape of the 1978 triumph. It also represented a significant step forward for Reardon as an individual. For someone who had only recently emerged from the secondary school system, his selection to the NZ national team represented a remarkable achievement, one that would set the stage for a career defined by resilience, development, and eventual triumph.
 
-### The Amateur Struggle and Omission from the National Team
+## The Amateur Struggle and Omission from the National Team
 
 The middle years of the 1970s presented the New Zealand basketball system with a series of challenges that tested the very foundations of its amateur structure. The national team's performance during this period was inconsistent, and the coaching staff faced mounting pressure to improve results. These years also coincided with a significant period of transformation for Reardon, whose career was defined by a combination of public success and private hardship. For Reardon, the challenge of balancing a career in basketball with his professional work commitments was a constant theme. The demands of full time employment meant that he often had to make sacrifices to maintain his position in the national squad—sacrifices that, in the long run, proved worthwhile but were nonetheless difficult to bear at the time.
 
@@ -100,7 +100,7 @@ Despite this setback, Reardon did not remain inactive. He continued to play club
 
 The 1972 season was also a crucial period in Reardon's personal life. He was balancing his basketball career with the demands of a full-time job, and there were periods when the pressures of both took a toll on his physical and mental health. Yet, the challenges of this period were essential in shaping his character and his eventual approach to the sport. He learned the value of perseverance, resilience, and the importance of maintaining a positive mental attitude even in the face of adversity. These qualities would serve him well in the years to come.
 
-### The Australian Professional Contract and the Adelaide Experience
+## The Australian Professional Contract and the Adelaide Experience
 
 The year 1974 represented a turning point in Reardon's career. This was the year he received an offer that would transform his trajectory both as a player and as a person—a professional contract from an Australian basketball team. The offer came from the Adelaide team, a side that had been leading the Australian basketball scene for several years and was known for its competitive spirit and high standards. The offer, which included a salary, accommodation, and a range of other benefits, was a significant departure from the amateur, semi-professional lifestyle that Reardon had been accustomed to in New Zealand. Accepting the contract would mean leaving his home country, his family, and his existing network of friends, but it also offered a chance to compete at the highest level and to earn a living from his sporting passion.
 
@@ -112,7 +112,7 @@ His time in Adelaide was also significant for his personal development. Living i
 
 The Australian period also gave Reardon a unique perspective on the differences between the two countries' basketball systems. In New Zealand, basketball was still very much a sport of the amateur, relying on passion and community support to survive. In Australia, however, basketball was beginning to transition toward a more professional model, complete with sponsorship deals, better facilities, and more rigorous training regimes. Reardon returned to New Zealand with a wealth of knowledge about these advancements. His experience in Australia would play a pivotal role in the transformation of New Zealand basketball in the years that followed, particularly in the lead up to the historic 1978 series.
 
-### The Landmark 1978 Series: Destabilisations, Bravery, and Victory
+## The Landmark 1978 Series: Destabilisations, Bravery, and Victory
 
 The pinnacle of Gordon Reardon's basketball career arrived in 1978 when the New Zealand Tall Blacks faced the Australian national basketball team in a two match series that would decide the qualifiers for the 1978 FIBA World Championship. The series, held in Christchurch and Auckland, was the culmination of years of effort, experimentation, and strategic preparation. For Reardon, it was more than just a sporting event—it was the moment his career came full circle. Having been dropped from the national team just six years earlier, he was now one of its most important players. The series represented a redemption arc that could have come straight from a Hollywood script.
 
@@ -122,29 +122,21 @@ The second match, held in Auckland, was a different story. Having secured one vi
 
 The victory was more than just a win. It was a symbolic moment for New Zealand basketball. For years, the Australians had dominated the region, and their superiority had been taken for granted. The Tall Blacks' victory was a declaration that New Zealand was now a force to be reckoned with. Reardon's performance in the series was universally praised. He was hailed as a hero by the New Zealand media, and his nickname, "Rookie," became synonymous with his performance. In retrospect, Reardon's performance in the 1978 series would become his defining legacy. It would be remembered as the apex of a long, challenging, and ultimately triumphant career.
 
-### The Veteran Era, National League, and Political Leadership
+## The Veteran Era, National League, and Political Leadership
 
-The victory in 1978 was not the end of Reardon's career, but it marked the beginning of a new phase. Over the subsequent decade, he transitioned from being a player to becoming a leader and administrator in the New Zealand basketball community. This transition was not immediate, but it was inevitable. The maturity and experience he had gained on the court naturally led to roles in coaching, mentoring, and administration. In the years following the 1978 series, Reardon became one of the most respected figures in New Zealand basketball, overseeing a period of transformation and growth.
+The victory in 1978 was not the end of Reardon's career, but it marked the beginning of a new phase. Over the subsequent decade, he transitioned from being a player to becoming a leader in the New Zealand basketball community. This transition was not immediate, but it was inevitable. The maturity and experience he had gained on the court naturally led to roles in coaching, mentoring, and administration. In the years following the 1978 series, Reardon became one of the most respected figures in New Zealand basketball, overseeing a period of transformation and growth.
 
 The early 1980s saw the introduction of the National Basketball League (NBL) in New Zealand, a development that Reardon welcomed and actively supported. The league was a significant step forward for the sport, offering players a structured, professional environment in which to compete. Reardon, who had experienced the benefits of professionalisation during his time in Australia, was a vocal advocate for the NBL, and his presence in the league helped lend it credibility and prestige. He continued to play for a few more years, but his role increasingly shifted toward team leadership and mentorship. He helped guide the younger players who were coming through the system, offering them advice on both the tactical and personal aspects of their careers.
 
-Reardon also began to take on administrative responsibilities. He became a member of the governing body of the New Zealand Basketball Federation, where he worked to improve the organisation, funding, and promotion of the sport. He was instrumental in improving the relationship between the provincial associations and the national federation, fostering a spirit of unity and collaboration. His leadership style was characterised by a calm, measured approach and a focus on long term development. He was not a typical politician, but his experience on the court gave him the credibility and respect needed to navigate the often complex politics of New Zealand sport.
+By the late-1980s, Reardon while he was no longer in the prime of his athletic career, his influence was still felt across the sport. He was a regular guest at school basketball tournaments, where he would offer words of encouragement to young players. He also became a mentor to a new generation of players, many of whom would go on to represent New Zealand on the international stage. His guidance and advice were invaluable in shaping the next wave of Tall Blacks.
 
-By the mid-1980s, Reardon had become a national elder statesman of basketball. While he was no longer in the prime of his athletic career, his influence was still felt across the sport. He was a regular guest at school basketball tournaments, where he would offer words of encouragement to young players. He also became a mentor to a new generation of players, many of whom would go on to represent New Zealand on the international stage. His guidance and advice were invaluable in shaping the next wave of Tall Blacks.
+## Legacy, Basketball Hall of Fame, and Cultural Preservation
 
-Reardon's influence was also felt through his commitment to the community. He remained deeply involved in the Christchurch basketball scene, organising local tournaments and coaching youth teams. His philosophy of basketball—that it was a tool for personal development and community building—shaped much of his work in this period. He was deeply respected by his peers, and his contributions to the sport were formally recognised in 1987, when he was inducted into the New Zealand Basketball Hall of Fame. This induction was not merely a recognition of his athletic achievements but also a tribute to his contributions as a leader, mentor, and advocate for the game.
-
-### Legacy, Basketball Hall of Fame, and Cultural Preservation
-
-Gordon "Rookie" Reardon passed away in 2009, leaving behind a legacy that is still deeply felt in the world of New Zealand basketball. His story, however, does not end with his passing; it is a story that continues to be told by historians, fans, and players who seek to understand the origins of the sport in New Zealand. His life and career provide a valuable lens through which the history, development, and cultural significance of basketball in New Zealand can be understood.
-
-His induction into the Basketball Hall of Fame in 1987 was a fitting tribute to a man who had given so much to the sport. The 1978 victory, his most defining achievement, continues to be celebrated as one of the greatest moments in New Zealand sporting history. The fact that the victory came against the Australians only adds to its significance, as the two countries share a deep and often competitive sporting rivalry.
+His induction into the Basketball Hall of Fame in 2020 was a fitting tribute to a man who had given so much to the sport. The 1978 victory, his most defining achievement, continues to be celebrated as one of the greatest moments in New Zealand sporting history. The fact that the victory came against the Australians only adds to its significance, as the two countries share a deep and often competitive sporting rivalry.
 
 Reardon's legacy is not merely a matter of historical record. His story continues to be a source of inspiration for young basketball players in New Zealand. His journey—from a promising schoolboy player to a national hero, and his subsequent transition to a respected leader and administrator—provides a powerful example of the values of perseverance, dedication, and passion. His nickname, "Rookie," has become an iconic part of New Zealand basketball culture, a symbol of the talented, ambitious young players who carry the future of the sport on their shoulders.
 
-His contributions to basketball have been preserved in a number of ways. Museums and historical societies have curated exhibitions dedicated to his career, and his personal memorabilia has been archived for future generations. The Christchurch basketball community, in particular, has been instrumental in keeping his memory alive. His impact on the city—where he grew up, played, and eventually retired—has been profound, and his name remains synonymous with the sport there.
-
-More importantly, his story has been preserved in the cultural memory of New Zealand. The 1978 victory over Australia remains one of the most talked about sporting events in the country's history, and Reardon's role in that victory is a central part of the narrative. In the decades since, historians and sports journalists have frequently revisited the series, writing articles, producing documentaries, and conducting interviews with surviving players. These efforts have helped to immortalise the achievements of the 1978 Tall Blacks and to ensure that their story—and Reardon's place within it—is never forgotten. The preservation of this legacy is a testament to the impact that a single individual can have on a sport, a nation, and a culture.
+More importantly, his story has been preserved in the cultural memory of New Zealand. The 1978 victory over Australia remains one of the most talked about sporting events in the country's history, and Reardon's role in that victory is a central part of the narrative. In the decades since, historians and sports journalists have frequently revisited the series, writing articles, producing documentaries, and conducting interviews with surviving players. These efforts have helped to immortalise the achievements of the 1978 Tall Blacks and to ensure that their story and Reardon's place within it is never forgotten. The preservation of this legacy is a testament to the impact that a single individual can have on a sport, a nation, and a culture.
 
 ---
 

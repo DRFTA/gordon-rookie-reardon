@@ -26,7 +26,7 @@ Rather than allowing these pieces of history to remain scattered across old news
 
 # Features
 
-- 🏀 Complete career timeline
+- 🏀 Career timeline
 - 📰 Newspaper archive
 - 📷 Historical photographs
 - 🎥 Rare basketball video footage

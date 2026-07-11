@@ -12,6 +12,7 @@
   
 <br><br>
   <div align="center">
+  <br>
     
   [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
   ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)

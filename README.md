@@ -12,9 +12,10 @@
     <h3>🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>
   </div>
 </div>
-#
+
+<br>
+
 <div align="center">
-<br>  
 </h2>
 
 [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)

@@ -1,8 +1,11 @@
 <div align="center">
 <h1>🏀 Gordon "Rookie" Reardon 🏀
 
+<br>
+<img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
+<br><br>
 
-## The First Rookie of New Zealand Basketball</h1>
+The First Rookie of New Zealand Basketball</h1>
 <h2>
   
 🏀 Tall Black (1971–1980s)
@@ -12,10 +15,6 @@
 ⛹️‍♀️ Legendary 1978 Tall Blacks Team Member
 
 </h2>
-
-<br>
-<img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
-<br><br>
 
 [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
 ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)

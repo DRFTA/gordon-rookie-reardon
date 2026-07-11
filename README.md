@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏀 Gordon "Rookie" Reardon 🏀                                                                                                                                     ## The First True "Rookie" in New Zealand Basketball History
+# 🏀 Gordon "Rookie" Reardon 🏀                                                                                                                                                                                The First True "Rookie" in New Zealand Basketball History
 
 **Preserving the career and legacy of one of New Zealand basketball's pioneers through newspaper archives, photographs, historical documents, and rare video footage.**
 

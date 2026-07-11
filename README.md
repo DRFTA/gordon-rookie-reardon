@@ -1,9 +1,9 @@
 <div align="center">
-<h1> Gordon "Rookie" Reardon 
+<h1>🏀 Gordon "Rookie" Reardon 🏀 
 <br><br>
 <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
 <br><br>
-The First Real Rookie of New Zealand Basketball
+⛹️ The First Real Rookie of New Zealand Basketball ⛹️‍♂️
 <br><br>
 </h1>
 

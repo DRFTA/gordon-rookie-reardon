@@ -10,9 +10,8 @@
   <h3>⛹️ Legendary 1978 Tall Blacks Team Member ⛹️</h3>
   <h3> 🏀 The First Real Rookie of New Zealand Basketball 🏀</h3>
   
-<br><br>
+</br>
   <div align="center">
-  <br>
     
   [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
   ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)

@@ -296,38 +296,6 @@ header {
 /* Mobile devices */
 @media (max-width: 768px) {
     .hero {
-        padding: 0 20px 50px 20px;
-        background-position: center 25%;
-        min-height: 90vh;
-    }
-    
-    .hero h1 {
-        font-size: 42px;
-    }
-    
-    .hero h2 {
-        font-size: 22px;
-    }
-    
-    .hero p {
-        font-size: 17px;
-        line-height: 1.6;
-    }
-    
-    .overlay {
-        padding: 25px 25px;
-        border-radius: 16px;
-    }
-    
-    .hero .button {
-        padding: 14px 30px;
-        font-size: 1rem;
-    }
-}
-
-/* Mobile devices */
-@media (max-width: 768px) {
-    .hero {
         background-position: center 5%; /* Move image up so face is more visible */
         min-height: 90vh;
         padding: 0 16px 30px 16px;

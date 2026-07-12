@@ -16,15 +16,16 @@
   [![GitHub Pages](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge&logo=github)](https://DRFTA.github.io/gordon-rookie-reardon/)
   ![Status](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
   ![Made with Love](https://img.shields.io/badge/Made%20for-NZ%20Basketball-black?style=for-the-badge)
+  ### To vist the website click the link bellow 👇
   ### 🌐 https://DRFTA.github.io/gordon-rookie-reardon/
   
 </div>
 
 <br>
 
+# 🏀 Welcome 🏀
+
 <div align="left">
-  
-# 🏀 Welcome
 
 This project is dedicated to preserving the history, achievements, and enduring legacy of Gordon "Rookie" Reardon. One of the pioneers of New Zealand basketball, a New Zealand Basketball Hall of Fame inductee, and a key member of the legendary 1978 Tall Blacks.
 <br><br>

@@ -71,7 +71,7 @@ a {
 
 /* ---------- Images ---------- */
 img {
-    max-width: 50%;
+    max-width: 100%;
     display: block;
 }
 
@@ -194,8 +194,8 @@ header {
 }
 
 .overlay {
-    max-width: 360px;
-    padding: 230px;
+    max-width: 900px;
+    padding: 30px;
     animation: fadeUp 1.2s ease;
     position: relative;
     z-index: 2; /* Ensure content stays above background */
@@ -204,7 +204,7 @@ header {
 /* If you want to use an img tag instead of CSS background */
 .hero-image-wrapper {
     position: relative;
-    min-height: 50vh;
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -215,8 +215,8 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     object-position: center 30%; /* Shift focus down */
     z-index: 0;
@@ -230,10 +230,10 @@ header {
 /* ==========================================================
    RESPONSIVE HERO FIXES
 ========================================================== */
-@media (max-width: 720px) {
+@media (max-width: 1100px) {
     .hero {
         background-position: center 25%; /* Adjust for smaller screens */
-        padding-top: 180px;
+        padding-top: 90px;
     }
     
     .hero h1 {
@@ -245,10 +245,10 @@ header {
     }
 }
 
-@media (max-width: 340px) {
+@media (max-width: 850px) {
     .hero {
         background-position: center 20%; /* Further adjust for mobile */
-        padding-top: 180px;
+        padding-top: 80px;
         min-height: 90vh; /* Slightly shorter on mobile */
     }
     

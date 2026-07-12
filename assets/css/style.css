@@ -153,7 +153,7 @@ header {
 ========================================================== */
 
 .hero {
-    min-height: 100vh;
+    min-height: 135vh;
     position: relative;
     display: flex;
     align-items: flex-end; /* Changed from center to push content down */
@@ -165,7 +165,7 @@ header {
         ),
         url("../images/hero.jpg");
     background-size: cover;
-    background-position: center 25%; /* Keeps face visible */
+    background-position: center 60%; /* Keeps face visible */
     background-repeat: no-repeat;
     text-align: center;
     padding: 0 40px 80px 40px; /* Bottom padding pushes text down */
@@ -198,12 +198,8 @@ header {
     animation: fadeUp 1.2s ease;
     position: relative;
     z-index: 2;
-    background: rgba(0, 0, 0, 0.65);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
     border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.08);
-    margin-bottom: 20px;
+    margin-bottom: -110px;
     /* Add a subtle bottom margin to keep it above the viewport bottom */
 }
 

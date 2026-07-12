@@ -165,11 +165,11 @@ header {
         ),
         url("../images/hero.jpg");
     background-size: cover;
-    background-position: center 30%; /* Shift focus down from top */
+    background-position: center 20%; /* Shift focus down from top */
     background-repeat: no-repeat;
     text-align: center;
     padding-top: 180px; /* Add padding to push content below header */
-    padding-bottom: 60px;
+    padding-bottom: 180px;
 }
 
 /* Alternative: If you want to keep the exact viewport height */
@@ -186,7 +186,7 @@ header {
         ),
         url("../images/hero.jpg");
     background-size: cover;
-    background-position: center 30%; /* Shift focus down */
+    background-position: center 20%; /* Shift focus down */
     background-repeat: no-repeat;
     text-align: center;
     margin-top: 180; /* Remove any default margin */
@@ -194,8 +194,8 @@ header {
 }
 
 .overlay {
-    max-width: 900px;
-    padding: 30px;
+    max-width: 500px;
+    padding: 180px;
     animation: fadeUp 1.2s ease;
     position: relative;
     z-index: 2; /* Ensure content stays above background */
@@ -230,9 +230,9 @@ header {
 /* ==========================================================
    RESPONSIVE HERO FIXES
 ========================================================== */
-@media (max-width: 1100px) {
+@media (max-width: 720px) {
     .hero {
-        background-position: center 25%; /* Adjust for smaller screens */
+        background-position: center 45%; /* Adjust for smaller screens */
         padding-top: 180px;
     }
     
@@ -245,9 +245,9 @@ header {
     }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 360px) {
     .hero {
-        background-position: center 20%; /* Further adjust for mobile */
+        background-position: center 40%; /* Further adjust for mobile */
         padding-top: 180px;
         min-height: 90vh; /* Slightly shorter on mobile */
     }
@@ -261,7 +261,7 @@ header {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 3200px) {
     .hero {
         background-position: center 15%; /* Keep face visible on small screens */
         padding-top: 180px;

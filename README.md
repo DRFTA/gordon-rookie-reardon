@@ -2,7 +2,7 @@
   <h1>🏀 Gordon "Rookie" Reardon 🏀</h1>
 
   <br><br>
-  <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero.jpg" alt="Gordon Rookie Reardon" width="360" />
+  <img src="https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/master/assets/images/hero0.jpg" alt="Gordon Rookie Reardon" width="360" />
   <br><br>
 
   <h3>⛹🏻‍♀️ New Zealand Tall Black (1971–1980s) ⛹🏻‍♀️</h3>

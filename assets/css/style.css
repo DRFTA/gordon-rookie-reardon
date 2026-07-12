@@ -168,7 +168,7 @@ header {
     background-position: center 30%; /* Shift focus down from top */
     background-repeat: no-repeat;
     text-align: center;
-    padding-top: 330px; /* Add padding to push content below header */
+    padding-top: 530px; /* Add padding to push content below header */
     padding-bottom: 60px;
 }
 
@@ -190,7 +190,7 @@ header {
     background-repeat: no-repeat;
     text-align: center;
     margin-top: 0; /* Remove any default margin */
-    padding-top: 80px; /* Account for fixed header */
+    padding-top: 180px; /* Account for fixed header */
 }
 
 .overlay {

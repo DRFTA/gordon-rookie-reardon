@@ -168,7 +168,7 @@ header {
     background-position: center 30%; /* Shift focus down from top */
     background-repeat: no-repeat;
     text-align: center;
-    padding-top: 130px; /* Add padding to push content below header */
+    padding-top: 180px; /* Add padding to push content below header */
     padding-bottom: 60px;
 }
 
@@ -189,8 +189,8 @@ header {
     background-position: center 30%; /* Shift focus down */
     background-repeat: no-repeat;
     text-align: center;
-    margin-top: 0; /* Remove any default margin */
-    padding-top: 130px; /* Account for fixed header */
+    margin-top: 180; /* Remove any default margin */
+    padding-top: 180px; /* Account for fixed header */
 }
 
 .overlay {
@@ -233,7 +233,7 @@ header {
 @media (max-width: 1100px) {
     .hero {
         background-position: center 25%; /* Adjust for smaller screens */
-        padding-top: 90px;
+        padding-top: 180px;
     }
     
     .hero h1 {
@@ -245,10 +245,10 @@ header {
     }
 }
 
-@media (max-width: 850px) {
+@media (max-width: 700px) {
     .hero {
         background-position: center 20%; /* Further adjust for mobile */
-        padding-top: 80px;
+        padding-top: 180px;
         min-height: 90vh; /* Slightly shorter on mobile */
     }
     
@@ -264,7 +264,7 @@ header {
 @media (max-width: 600px) {
     .hero {
         background-position: center 15%; /* Keep face visible on small screens */
-        padding-top: 70px;
+        padding-top: 180px;
         min-height: 80vh;
     }
 }

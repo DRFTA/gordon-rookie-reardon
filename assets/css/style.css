@@ -325,38 +325,62 @@ header {
     }
 }
 
-/* Small phones */
-@media (max-width: 480px) {
+/* Mobile devices */
+@media (max-width: 768px) {
     .hero {
-        padding: 0 15px 40px 15px;
-        background-position: center 20%;
-        min-height: 85vh;
+        background-position: center 5%; /* Move image up so face is more visible */
+        min-height: 90vh;
+        padding: 0 16px 30px 16px;
+    }
+    
+    .overlay {
+        padding: 16px 18px;
+        background: rgba(0, 0, 0, 0.65); /* Semi-transparent background */
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        border-radius: 12px;
+        max-width: 100%;
+        margin-bottom: 10px;
     }
     
     .hero h1 {
-        font-size: 32px;
+        font-size: 30px;
     }
     
     .hero h2 {
         font-size: 18px;
-        margin-top: 5px;
     }
     
     .hero p {
-        font-size: 15px;
-        margin-top: 12px;
+        font-size: 14px;
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero {
+        background-position: center 0%; /* Show more of the top/face */
+        min-height: 85vh;
+        padding: 0 12px 20px 12px;
     }
     
     .overlay {
-        padding: 20px 18px;
-        border-radius: 14px;
-        margin-bottom: 10px;
+        padding: 12px 14px;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(6px);
     }
     
-    .hero .button {
-        padding: 12px 24px;
-        font-size: 0.9rem;
-        margin-top: 20px;
+    .hero h1 {
+        font-size: 24px;
+    }
+    
+    .hero h2 {
+        font-size: 15px;
+    }
+    
+    .hero p {
+        font-size: 13px;
     }
 }
 

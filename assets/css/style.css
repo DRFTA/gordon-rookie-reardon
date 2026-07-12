@@ -156,7 +156,7 @@ header {
     min-height: 135vh;
     position: relative;
     display: flex;
-    align-items: flex-end; /* Changed from center to push content down */
+    align-items: center; /* Changed from center to push content down */
     justify-content: center;
     background:
         linear-gradient(
@@ -165,7 +165,7 @@ header {
         ),
         url("assets/images/hero.jpg");
     background-size: cover;
-    background-position: center 60%; /* Keeps face visible */
+    background-position: center 0%; /* Keeps face visible */
     background-repeat: no-repeat;
     text-align: center;
     padding: 0 40px 80px 40px; /* Bottom padding pushes text down */
@@ -176,7 +176,7 @@ header {
     height: 100vh;
     position: relative;
     display: flex;
-    align-items: flex-end; /* Push content to bottom */
+    align-items: center; /* Push content to bottom */
     justify-content: center;
     background:
         linear-gradient(
@@ -185,7 +185,7 @@ header {
         ),
         url("assets/images/hero.jpg");
     background-size: cover;
-    background-position: center 25%;
+    background-position: center 0%;
     background-repeat: no-repeat;
     text-align: center;
     padding: 0 40px 80px 40px;
@@ -199,7 +199,7 @@ header {
     position: relative;
     z-index: 2;
     border-radius: 20px;
-    margin-bottom: -110px;
+    margin-bottom: 20px;
     /* Add a subtle bottom margin to keep it above the viewport bottom */
 }
 

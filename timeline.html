@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -756,11 +756,20 @@
             const closeBtn = document.getElementById('closeLightbox');
             const lightboxInfo = document.getElementById('lightboxInfo');
 
+            // In the openLightbox function
             function openLightbox(src, filename) {
                 resetZoom();
                 lightboxImg.src = src;
                 lightbox.classList.add('active');
                 document.body.style.overflow = 'hidden';
+    
+                // --- HIDE THE HEADER ---
+                const header = document.querySelector('header');
+                if (header) {
+                    header.style.display = 'none';
+            }
+                // --- END ---
+    
                 lightboxInfo.textContent = filename || 'Image';
                 updateTransform();
                 setTimeout(() => {
@@ -771,12 +780,21 @@
                 }, 400);
             }
 
+            // In the closeLightbox function
             function closeLightbox() {
                 lightbox.classList.remove('active');
                 document.body.style.overflow = '';
                 resetZoom();
+    
+                // --- SHOW THE HEADER AGAIN ---
+                const header = document.querySelector('header');
+                if (header) {
+                    header.style.display = '';
+                }
+                // --- END ---
+    
                 setTimeout(() => { lightboxImg.src = ''; }, 300);
-            }
+                }
 
             closeBtn.addEventListener('click', closeLightbox);
             lightbox.addEventListener('click', function(e) {

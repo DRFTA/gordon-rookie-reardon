@@ -381,8 +381,7 @@
                 <li><a href="index.html">Home</a></li>
                 <li><a href="biography.html">Biography</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="search.html">Search</a></li>
+                <li><a href="gallery.html">Archive/Gallery</a></li>
             </ul>
         </nav>
     </header>
@@ -551,6 +550,7 @@
 
             // -------- helpers --------
             function getImagePath(year, file) {
+                // Remove leading slash if present and use relative path
                 return `assets/images/years/${year}/${file}`;
             }
 

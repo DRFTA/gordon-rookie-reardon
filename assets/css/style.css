@@ -242,7 +242,7 @@ header {
     width: 100%;
     position: relative;
     background: 
-        url("assets/images/hero.jpg");
+        url("../images/hero.jpg");
     background-size: cover;
     background-position: center 30%;
     background-repeat: no-repeat;

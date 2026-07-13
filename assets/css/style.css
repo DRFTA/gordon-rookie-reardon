@@ -243,7 +243,6 @@ header {
     position: relative;
     background: 
         url("https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/refs/heads/master/assets/images/hero.jpg");
-    background-size: cover;
     background-position: center 30%;
     background-repeat: no-repeat;
     padding-top: 80px;
@@ -269,7 +268,6 @@ header {
     .hero {
         padding-top: 85px;
         background-position: center 28%;
-        min-height: 90vh;
     }
 }
 
@@ -278,7 +276,6 @@ header {
     .hero {
         padding-top: 140px;
         background-position: center 25%;
-        min-height: 85vh;
     }
 }
 
@@ -286,7 +283,6 @@ header {
     .hero {
         padding-top: 150px;
         background-position: center 22%;
-        min-height: 80vh;
     }
 }
 
@@ -294,9 +290,7 @@ header {
 @media (max-width: 480px) {
     .hero {
         padding-top: 160px;
-        background-position: center 18%;
         min-height: 75vh;
-        background-size: cover;
     }
 }
 

@@ -2,7 +2,7 @@
    Gordon "ROOKIE" Reardon
    New Zealand Basketball History
    style.css
-   FIXED VERSION
+   COMPLETE FIXED VERSION
 ========================================================== */
 
 /* ---------- Google Fonts ---------- */
@@ -42,6 +42,7 @@ body {
     font-family: "Inter", sans-serif;
     line-height: 1.7;
     overflow-x: hidden;
+    padding-top: 0;
 }
 
 /* ---------- Scrollbar ---------- */
@@ -86,7 +87,7 @@ section {
 }
 
 /* ==========================================================
-   NAVIGATION - FIXED HEADER
+   NAVIGATION - COMPLETE FIX
 ========================================================== */
 header {
     position: fixed;
@@ -99,7 +100,7 @@ header {
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    height: 80px; /* Fixed height */
+    min-height: 70px;
     display: flex;
     align-items: center;
 }
@@ -110,8 +111,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 18px 40px;
+    padding: 14px 40px;
     width: 100%;
+    background: transparent;
+    gap: 10px;
 }
 
 .logo {
@@ -119,12 +122,16 @@ header {
     font-size: 34px;
     color: var(--gold);
     letter-spacing: 1px;
+    white-space: nowrap;
 }
 
 .navbar ul {
     display: flex;
     gap: 35px;
     list-style: none;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
 }
 
 .navbar li {
@@ -133,6 +140,8 @@ header {
 
 .navbar a {
     position: relative;
+    color: var(--text);
+    padding: 4px 0;
 }
 
 .navbar a::after {
@@ -155,6 +164,76 @@ header {
 }
 
 /* ==========================================================
+   NAVIGATION - RESPONSIVE
+========================================================== */
+
+@media (max-width: 1024px) {
+    .navbar {
+        padding: 14px 24px;
+    }
+    
+    .navbar ul {
+        gap: 25px;
+    }
+}
+
+@media (max-width: 850px) {
+    header {
+        background: rgba(15, 17, 21, 0.95);
+        min-height: auto;
+    }
+    
+    .navbar {
+        flex-direction: column;
+        gap: 12px;
+        padding: 12px 20px;
+        background: rgba(15, 17, 21, 0.95);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .navbar ul {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 16px;
+        width: 100%;
+        padding: 4px 0;
+    }
+    
+    .navbar li {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    
+    .logo {
+        font-size: 26px;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        padding: 8px 12px;
+        gap: 8px;
+        background: rgba(15, 17, 21, 0.98);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+    }
+    
+    .navbar ul {
+        gap: 12px;
+    }
+    
+    .navbar li {
+        font-size: 12px;
+    }
+    
+    .logo {
+        font-size: 20px;
+    }
+}
+
+/* ==========================================================
    HERO - IMAGE ONLY (text already in the image)
 ========================================================== */
 
@@ -163,21 +242,17 @@ header {
     width: 100%;
     position: relative;
     background: 
-        url("https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/refs/heads/master/assets/images/hero.jpg");
-    background-size: contain;
+        url("assets/images/hero.jpg");
+    background-size: cover;
     background-position: center 30%;
     background-repeat: no-repeat;
-    padding-top: 80px; /* Space for fixed header */
+    padding-top: 80px;
     margin-top: 0;
     display: block;
 }
 
-/* Remove the overlay styles since we don't need them */
-.overlay {
-    display: none;
-}
-
-/* Hero Text Sizing - Not needed since text is in the image */
+/* Overlay and text hidden - text is in the image */
+.overlay,
 .hero h1,
 .hero h2,
 .hero p,
@@ -186,23 +261,31 @@ header {
 }
 
 /* ==========================================================
-   RESPONSIVE HERO FIXES
+   HERO - RESPONSIVE
 ========================================================== */
 
 /* Tablets and small laptops */
 @media (max-width: 1024px) {
     .hero {
-        padding-top: 75px;
-        background-position: center 30%;
+        padding-top: 85px;
+        background-position: center 28%;
         min-height: 90vh;
     }
 }
 
 /* Mobile devices */
+@media (max-width: 850px) {
+    .hero {
+        padding-top: 140px;
+        background-position: center 25%;
+        min-height: 85vh;
+    }
+}
+
 @media (max-width: 768px) {
     .hero {
-        padding-top: 70px;
-        background-position: center 25%;
+        padding-top: 150px;
+        background-position: center 22%;
         min-height: 80vh;
     }
 }
@@ -210,9 +293,10 @@ header {
 /* Small phones */
 @media (max-width: 480px) {
     .hero {
-        padding-top: 60px;
-        background-position: center 20%;
-        min-height: 70vh;
+        padding-top: 160px;
+        background-position: center 18%;
+        min-height: 75vh;
+        background-size: cover;
     }
 }
 
@@ -221,6 +305,7 @@ header {
     .hero {
         padding-top: 90px;
         min-height: 100vh;
+        background-position: center 30%;
     }
 }
 
@@ -328,21 +413,10 @@ p {
 }
 
 /* ==========================================================
-   RESPONSIVE
+   RESPONSIVE - GLOBAL
 ========================================================== */
+
 @media (max-width: 1100px) {
-    .navbar {
-        padding: 18px 24px;
-    }
-
-    .hero h1 {
-        font-size: 64px;
-    }
-
-    .hero h2 {
-        font-size: 28px;
-    }
-
     .grid-4 {
         grid-template-columns: repeat(2, 1fr);
     }
@@ -353,29 +427,24 @@ p {
         padding: 70px 24px;
     }
 
-    .navbar {
-        flex-direction: column;
-        gap: 15px;
-    }
-
-    .navbar ul {
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 20px;
-    }
-
-    .hero h1 {
-        font-size: 48px;
-    }
-
-    .hero p {
-        font-size: 18px;
-    }
-
     .grid-2,
     .grid-3,
     .grid-4 {
         grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    section {
+        padding: 50px 16px;
+    }
+    
+    h2 {
+        font-size: 32px;
+    }
+    
+    h3 {
+        font-size: 24px;
     }
 }
 
@@ -439,6 +508,16 @@ p {
     margin-bottom: 0;
 }
 
+@media (max-width: 700px) {
+    #biography .card {
+        padding: 35px;
+    }
+
+    #biography p {
+        font-size: 1rem;
+    }
+}
+
 /* ---------- QUOTE PANEL ---------- */
 .quote {
     margin-top: 45px;
@@ -487,6 +566,7 @@ p {
     overflow: hidden;
     transition: 0.35s;
     box-shadow: var(--shadow);
+    cursor: pointer;
 }
 
 /* gold glow */
@@ -529,7 +609,7 @@ p {
     letter-spacing: 0.5px;
 }
 
-/* ---------- OPTIONAL ICON ---------- */
+/* ---------- STATS ICON ---------- */
 .stat .icon {
     font-size: 2.5rem;
     margin-bottom: 18px;
@@ -557,25 +637,24 @@ p {
 @media (max-width: 1100px) {
     .stats {
         grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        padding: 70px 30px;
     }
 }
 
 @media (max-width: 700px) {
     .stats {
         grid-template-columns: 1fr;
-        padding: 70px 20px;
-    }
-
-    #biography .card {
-        padding: 35px;
-    }
-
-    #biography p {
-        font-size: 1rem;
+        padding: 50px 20px;
+        gap: 15px;
     }
 
     .stat h3 {
         font-size: 3rem;
+    }
+    
+    .stat .icon {
+        font-size: 2rem;
     }
 }
 
@@ -708,7 +787,7 @@ p {
     transform: scaleX(1);
 }
 
-/* ---------- TIMELINE LINE ---------- */
+/* ---------- TIMELINE ---------- */
 .timeline {
     position: relative;
     margin: 100px auto 0;
@@ -773,7 +852,7 @@ p {
     padding: 30px;
     transition: 0.35s;
     box-shadow: var(--shadow);
-    position: relative; /* Added for ::after positioning */
+    position: relative;
 }
 
 .timeline-card:hover {
@@ -790,32 +869,6 @@ p {
     margin-bottom: 0;
 }
 
-/* ---------- ARTICLE COUNT ---------- */
-.article-count {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    margin-top: 18px;
-    padding: 8px 16px;
-    border-radius: 999px;
-    background: rgba(212, 175, 55, 0.12);
-    color: var(--gold);
-    font-size: 0.9rem;
-    font-weight: 600;
-}
-
-/* ---------- YEAR BADGE ---------- */
-.year-badge {
-    display: inline-block;
-    margin-bottom: 18px;
-    padding: 8px 18px;
-    border-radius: 999px;
-    background: var(--gold);
-    color: #111;
-    font-weight: 700;
-    font-size: 0.9rem;
-}
-
 /* ---------- HOVER GLOW ---------- */
 .timeline-card::after {
     content: "";
@@ -830,6 +883,32 @@ p {
 
 .timeline-card:hover::after {
     opacity: 1;
+}
+
+/* ---------- YEAR BADGE ---------- */
+.year-badge {
+    display: inline-block;
+    margin-bottom: 18px;
+    padding: 8px 18px;
+    border-radius: 999px;
+    background: var(--gold);
+    color: #111;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+/* ---------- ARTICLE COUNT ---------- */
+.article-count {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+    padding: 8px 16px;
+    border-radius: 999px;
+    background: rgba(212, 175, 55, 0.12);
+    color: var(--gold);
+    font-size: 0.9rem;
+    font-weight: 600;
 }
 
 /* ---------- TIMELINE RESPONSIVE ---------- */
@@ -854,6 +933,7 @@ p {
 @media (max-width: 650px) {
     .year-grid {
         grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
     }
 
     .year-grid a {
@@ -1008,12 +1088,18 @@ p {
 @media (max-width: 1000px) {
     .feature {
         grid-template-columns: 1fr;
+        gap: 30px;
     }
 }
 
 @media (max-width: 650px) {
     .archive-grid {
         grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .archive-card img {
+        height: 200px;
     }
 }
 
@@ -1055,5 +1141,52 @@ footer .quote p:first-child {
 @media (max-width: 768px) {
     footer {
         padding: 40px 20px 30px;
+    }
+    
+    footer .quote p {
+        font-size: 1rem;
+    }
+}
+
+/* ==========================================================
+   VIDEO SECTION
+========================================================== */
+#video {
+    padding-bottom: 1rem;
+}
+
+.video-wrap {
+    max-width: 780px;
+    margin: 1.5rem auto 0;
+    background: #1a1a1a;
+    border-radius: 12px;
+    padding: 0.75rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+.video-wrap video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    background: #0a0a0a;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.video-caption {
+    text-align: center;
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 0.5rem;
+    font-style: italic;
+    letter-spacing: 0.3px;
+}
+
+@media (max-width: 600px) {
+    .video-wrap {
+        padding: 0.4rem;
+        margin-left: 0;
+        margin-right: 0;
     }
 }

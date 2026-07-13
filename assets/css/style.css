@@ -153,42 +153,22 @@ header {
 ========================================================== */
 
 .hero {
-    min-height: 135vh;
+    min-height: 100vh;
     position: relative;
     display: flex;
-    align-items: center; /* Changed from center to push content down */
+    align-items: flex-end; /* Push content to bottom */
     justify-content: center;
     background:
         linear-gradient(
-            rgba(0, 0, 0, 0.50),
-            rgba(0, 0, 0, 0.75)
+            rgba(0, 0, 0, 0.40),
+            rgba(0, 0, 0, 0.80)
         ),
         url("assets/images/hero.jpg");
     background-size: cover;
-    background-position: center 0%; /* Keeps face visible */
+    background-position: center 30%; /* Shows face clearly */
     background-repeat: no-repeat;
     text-align: center;
-    padding: 0 40px 80px 40px; /* Bottom padding pushes text down */
-}
-
-/* Alternative: If you want to keep the exact viewport height */
-.hero-alt {
-    height: 100vh;
-    position: relative;
-    display: flex;
-    align-items: center; /* Push content to bottom */
-    justify-content: center;
-    background:
-        linear-gradient(
-            rgba(0, 0, 0, 0.50),
-            rgba(0, 0, 0, 0.75)
-        ),
-        url("assets/images/hero.jpg");
-    background-size: cover;
-    background-position: center 0%;
-    background-repeat: no-repeat;
-    text-align: center;
-    padding: 0 40px 80px 40px;
+    padding: 80px 40px 60px 40px; /* Top padding for header */
 }
 
 /* Overlay - Positioned at bottom with semi-transparent background */
@@ -199,8 +179,11 @@ header {
     position: relative;
     z-index: 2;
     border-radius: 20px;
+    background: rgba(0, 0, 0, 0.55);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
     margin-bottom: 20px;
-    /* Add a subtle bottom margin to keep it above the viewport bottom */
 }
 
 /* Hero Text Sizing */
@@ -240,44 +223,14 @@ header {
 }
 
 /* ==========================================================
-   IMG TAG ALTERNATIVE (if using <img> instead of CSS background)
-========================================================== */
-
-.hero-image-wrapper {
-    position: relative;
-    min-height: 100vh;
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-    overflow: hidden;
-}
-
-.hero-image-wrapper img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 25%;
-    z-index: 0;
-}
-
-.hero-image-wrapper .overlay {
-    position: relative;
-    z-index: 1;
-    margin-bottom: 60px;
-}
-
-/* ==========================================================
    RESPONSIVE HERO FIXES
 ========================================================== */
 
 /* Tablets and small laptops */
 @media (max-width: 1024px) {
     .hero {
-        padding: 0 30px 60px 30px;
-        background-position: center 30%;
+        padding: 75px 30px 50px 30px;
+        background-position: center 25%;
     }
     
     .hero h1 {
@@ -296,66 +249,84 @@ header {
 /* Mobile devices */
 @media (max-width: 768px) {
     .hero {
-        background-position: center 0%; /* Move image up so face is more visible */
-        min-height: 10vh;
-        padding: 0px 0px 0px 0px;
+        padding: 70px 20px 40px 20px;
+        background-position: center 20%;
+        min-height: 90vh;
+        align-items: flex-end;
     }
     
     .overlay {
-        padding: 16px 18px;
-        background: rgba(0, 0, 0, 0.65); /* Semi-transparent background */
-        backdrop-filter: blur(4px);
-        -webkit-backdrop-filter: blur(4px);
-        border-radius: 12px;
+        padding: 20px 20px;
+        background: rgba(0, 0, 0, 0.70);
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(6px);
+        border-radius: 14px;
         max-width: 100%;
         margin-bottom: 10px;
     }
     
     .hero h1 {
-        font-size: 30px;
+        font-size: 34px;
     }
     
     .hero h2 {
-        font-size: 18px;
+        font-size: 20px;
+        margin-top: 5px;
+    }
+    
+    .hero p {
+        font-size: 15px;
+        margin-top: 10px;
+        line-height: 1.6;
+    }
+    
+    .hero .button {
+        padding: 12px 28px;
+        font-size: 0.95rem;
+        margin-top: 18px;
+    }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+    .hero {
+        padding: 60px 15px 30px 15px;
+        background-position: center 15%;
+        min-height: 85vh;
+    }
+    
+    .overlay {
+        padding: 16px 16px;
+        background: rgba(0, 0, 0, 0.75);
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        border-radius: 12px;
+    }
+    
+    .hero h1 {
+        font-size: 28px;
+    }
+    
+    .hero h2 {
+        font-size: 17px;
     }
     
     .hero p {
         font-size: 14px;
         margin-top: 8px;
     }
-}
-
-@media (max-width: 480px) {
-    .hero {
-        background-position: center 0%; /* Show more of the top/face */
-        min-height: 0vh;
-        padding: 160px 0px 0px 0px;
-    }
     
-    .overlay {
-        padding: 12px 14px;
-        background: rgba(0, 0, 0, 0.7);
-        backdrop-filter: blur(6px);
-        -webkit-backdrop-filter: blur(6px);
-    }
-    
-    .hero h1 {
-        font-size: 24px;
-    }
-    
-    .hero h2 {
-        font-size: 15px;
-    }
-    
-    .hero p {
-        font-size: 13px;
+    .hero .button {
+        padding: 10px 20px;
+        font-size: 0.85rem;
+        margin-top: 14px;
     }
 }
 
 /* Large screens */
 @media (min-width: 1920px) {
     .hero {
-        padding: 0 60px 100px 60px;
+        padding: 90px 60px 80px 60px;
     }
     
     .hero h1 {
@@ -370,6 +341,7 @@ header {
         font-size: 24px;
     }
 }
+
 /* ==========================================================
    BUTTONS
 ========================================================== */
@@ -1160,5 +1132,46 @@ p {
 @media (max-width: 650px) {
     .archive-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+/* ==========================================================
+   FOOTER
+========================================================== */
+footer {
+    background: var(--background2);
+    padding: 60px 40px 40px;
+    text-align: center;
+    border-top: 1px solid var(--border);
+    margin-top: 40px;
+}
+
+footer .quote {
+    margin: 0 auto;
+    max-width: 800px;
+    border-left: none;
+    border-top: 3px solid var(--gold);
+    border-radius: 0;
+    padding: 30px 20px;
+    background: rgba(255, 255, 255, 0.02);
+}
+
+footer .quote p {
+    font-size: 1.1rem;
+    color: var(--text2);
+    font-style: normal;
+    margin: 0;
+}
+
+footer .quote p:first-child {
+    font-weight: 600;
+    color: var(--gold);
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+    footer {
+        padding: 40px 20px 30px;
     }
 }

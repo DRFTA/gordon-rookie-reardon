@@ -164,7 +164,7 @@ header {
     position: relative;
     background: 
         url("https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/refs/heads/master/assets/images/hero.jpg");
-    background-size: cover;
+    background-size: contain;
     background-position: center 30%;
     background-repeat: no-repeat;
     padding-top: 80px; /* Space for fixed header */

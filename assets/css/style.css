@@ -171,7 +171,7 @@ header {
     .navbar {
         padding: 14px 24px;
     }
-    
+
     .navbar ul {
         gap: 25px;
     }
@@ -182,7 +182,7 @@ header {
         background: rgba(15, 17, 21, 0.95);
         min-height: auto;
     }
-    
+
     .navbar {
         flex-direction: column;
         gap: 12px;
@@ -200,12 +200,12 @@ header {
         width: 100%;
         padding: 4px 0;
     }
-    
+
     .navbar li {
         font-size: 14px;
         font-weight: 600;
     }
-    
+
     .logo {
         font-size: 26px;
     }
@@ -219,15 +219,15 @@ header {
         backdrop-filter: blur(18px);
         -webkit-backdrop-filter: blur(18px);
     }
-    
+
     .navbar ul {
         gap: 12px;
     }
-    
+
     .navbar li {
         font-size: 12px;
     }
-    
+
     .logo {
         font-size: 20px;
     }
@@ -243,6 +243,7 @@ header {
     position: relative;
     background: 
         url("https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/refs/heads/master/assets/images/hero.jpg");
+    background-size: cover;
     background-position: center 30%;
     background-repeat: no-repeat;
     padding-top: 80px;
@@ -268,6 +269,7 @@ header {
     .hero {
         padding-top: 85px;
         background-position: center 28%;
+        min-height: 90vh;
     }
 }
 
@@ -276,6 +278,7 @@ header {
     .hero {
         padding-top: 140px;
         background-position: center 25%;
+        min-height: 85vh;
     }
 }
 
@@ -283,6 +286,7 @@ header {
     .hero {
         padding-top: 150px;
         background-position: center 22%;
+        min-height: 80vh;
     }
 }
 
@@ -290,7 +294,9 @@ header {
 @media (max-width: 480px) {
     .hero {
         padding-top: 160px;
+        background-position: center 18%;
         min-height: 75vh;
+        background-size: cover;
     }
 }
 
@@ -432,11 +438,11 @@ p {
     section {
         padding: 50px 16px;
     }
-    
+
     h2 {
         font-size: 32px;
     }
-    
+
     h3 {
         font-size: 24px;
     }
@@ -646,7 +652,7 @@ p {
     .stat h3 {
         font-size: 3rem;
     }
-    
+
     .stat .icon {
         font-size: 2rem;
     }
@@ -1091,7 +1097,7 @@ p {
         grid-template-columns: 1fr;
         gap: 20px;
     }
-    
+
     .archive-card img {
         height: 200px;
     }
@@ -1136,7 +1142,7 @@ footer .quote p:first-child {
     footer {
         padding: 40px 20px 30px;
     }
-    
+
     footer .quote p {
         font-size: 1rem;
     }

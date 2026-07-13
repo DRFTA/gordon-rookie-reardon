@@ -296,9 +296,9 @@ header {
 /* Mobile devices */
 @media (max-width: 768px) {
     .hero {
-        background-position: center 5%; /* Move image up so face is more visible */
-        min-height: 90vh;
-        padding: 0 16px 30px 16px;
+        background-position: center 0%; /* Move image up so face is more visible */
+        min-height: 10vh;
+        padding: 0px 0px 0px 0px;
     }
     
     .overlay {
@@ -328,8 +328,8 @@ header {
 @media (max-width: 480px) {
     .hero {
         background-position: center 0%; /* Show more of the top/face */
-        min-height: 85vh;
-        padding: 0 12px 20px 12px;
+        min-height: 0vh;
+        padding: 160px 0px 0px 0px;
     }
     
     .overlay {

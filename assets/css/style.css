@@ -242,7 +242,7 @@ header {
     width: 100%;
     position: relative;
     background: 
-        url("../images/hero.jpg");
+        url("https://raw.githubusercontent.com/DRFTA/gordon-rookie-reardon/refs/heads/master/assets/images/hero.jpg");
     background-size: cover;
     background-position: center 30%;
     background-repeat: no-repeat;
